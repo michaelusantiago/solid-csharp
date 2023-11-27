@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\solid\\1_srp\\p_srp\\p_srp.csproj": {}
+    "D:\\CSharp\\solid\\1_SRP\\P_SRP\\p_srp.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\solid\\1_srp\\p_srp\\p_srp.csproj": {
+    "D:\\CSharp\\solid\\1_SRP\\P_SRP\\p_srp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\solid\\1_srp\\p_srp\\p_srp.csproj",
+        "projectUniqueName": "D:\\CSharp\\solid\\1_SRP\\P_SRP\\p_srp.csproj",
         "projectName": "p_srp",
-        "projectPath": "D:\\CSharp\\solid\\1_srp\\p_srp\\p_srp.csproj",
+        "projectPath": "D:\\CSharp\\solid\\1_SRP\\P_SRP\\p_srp.csproj",
         "packagesPath": "C:\\Users\\Neon\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\solid\\1_srp\\p_srp\\obj\\",
+        "outputPath": "D:\\CSharp\\solid\\1_SRP\\P_SRP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neon\\AppData\\Roaming\\NuGet\\NuGet.Config"

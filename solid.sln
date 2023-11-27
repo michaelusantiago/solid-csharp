@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. SRP", "1. SRP\1. SRP.csproj", "{AF00EEDD-F423-4498-894F-477C4218835E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_SRP", "1_SRP", "{0D752DF6-8774-4782-BA2B-A2E8195501B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p_srp", "1_SRP\P_SRP\p_srp.csproj", "{EF970D15-D5F8-4C82-8B9B-E14FD8CF7832}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF00EEDD-F423-4498-894F-477C4218835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF00EEDD-F423-4498-894F-477C4218835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF00EEDD-F423-4498-894F-477C4218835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF00EEDD-F423-4498-894F-477C4218835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF970D15-D5F8-4C82-8B9B-E14FD8CF7832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF970D15-D5F8-4C82-8B9B-E14FD8CF7832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF970D15-D5F8-4C82-8B9B-E14FD8CF7832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF970D15-D5F8-4C82-8B9B-E14FD8CF7832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF970D15-D5F8-4C82-8B9B-E14FD8CF7832} = {0D752DF6-8774-4782-BA2B-A2E8195501B7}
+	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {52572D97-328E-4DFB-BE43-68F492566F4A}
+		SolutionGuid = {2E1E6B95-864A-47B2-B2BC-CC76B88B9927}
 	EndGlobalSection
 EndGlobal

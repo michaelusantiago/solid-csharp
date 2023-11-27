@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bA1e5va27ilacydEvqQeVqZ5zi9A+8aanzN9rN/pu7ubEPOZMIPFs7btt8zRQWrLVSHXMC2WLEhRbXe0IAaIzw==",
+  "dgSpecHash": "5W5UkRRHM8EaDEzd5IZqU+LiOCVMR4pnyJVgikXVHs6dRjaK0OqXJP+gdCv+cA8hgdBtyL/7xtB5Fq565SjvOA==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\solid\\1_srp\\p_srp\\p_srp.csproj",
+  "projectFilePath": "D:\\CSharp\\solid\\1_SRP\\P_SRP\\p_srp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
